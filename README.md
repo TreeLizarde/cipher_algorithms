@@ -1,7 +1,7 @@
 # cipher_algorithms
 A collection of cipher classes created in Python for my coursework in the _Programming 1B_ module of my undergraduate mathematics degree. It features implementations of Caesar, affine, general substitution, and affine Hill ciphers, alongside cipher operations such as composition, addition, negation, and scalar multiplication, across different cipher types and alphabets.
 
-I was asked to implement these ciphers to a high standard, focusing on modular design and code reuse and using appropriate assertions and error handling to prevent incorrect usage. I was also asked to clearly and precisely justify the design decisions I made made, the Python best practices I applied, and the advanced language features I used.
+I was asked to implement these ciphers to a high standard, focusing on modular design and code reuse and using appropriate assertions and error handling to prevent incorrect usage. I was also asked to clearly and precisely justify the design decisions I made, the Python best practices I applied, and the advanced language features I used.
 
 ## Examiner feedback
 Overall mark: 20 out of 20 (100%)
